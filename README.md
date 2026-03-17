@@ -2,7 +2,7 @@
 ### Geospatial Ranking & Predictive Success Modeling
 
 ## Project Overview
-This project leverages **Big Data** processing techniques to identify optimal locations for new fast-food franchises. [cite_start]By integrating multi-source datasets—including business performance, socioeconomic demographics, and competitor density—the system generates a composite **"Success Score"** to forecast the viability of specific geographic locations.
+This project leverages **Big Data** processing techniques to identify optimal locations for new fast-food franchises. By integrating multi-source datasets—including business performance, socioeconomic demographics, and competitor density—the system generates a composite **"Success Score"** to forecast the viability of specific geographic locations.
 
 ## Data Sources
 The pipeline ingests and processes three primary datasets using **Apache Spark**:
